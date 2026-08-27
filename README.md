@@ -16,5 +16,5 @@ I build and run production backend systems. For 3+ years I have owned backend de
        
         - 📍 Tunis, Tunisia (UTC+1) · open to remote (EMEA) and relocation
        
-        - 📫 charradihamdi@gmail.com · [LinkedIn](https://www.linkedin.com/in/hamdi-charradi/) · [Portfolio](https://charradihamdi.netlify.app)
+        - 📫 charradihamdi1@gmail.com · [LinkedIn](https://www.linkedin.com/in/hamdi-charradi/) · [Portfolio](https://charradihamdi.netlify.app)
         - 
